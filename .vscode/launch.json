@@ -1,0 +1,19 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch SimpleCalculator (GUI)",
+            "request": "launch",
+            "mainClass": "SimpleCalculator",
+            "projectName": "SimpleCalculator"
+        },
+        {
+            "type": "java",
+            "name": "Run Automated Tests",
+            "request": "launch",
+            "mainClass": "CalculatorTest",
+            "projectName": "SimpleCalculator"
+        }
+    ]
+}

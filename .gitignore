@@ -1,0 +1,40 @@
+# Java Bytecode & Compiled Binaries
+*.class
+bin/
+build/
+out/
+target/
+*.jar
+*.war
+*.ear
+
+# Java Crash Logs
+hs_err_pid*
+replay_pid*
+
+# Operating System Files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+._*
+
+# IDE and Editor Directories
+.idea/
+*.iml
+*.iws
+*.ipr
+.project
+.classpath
+.settings/
+.vscode/*
+!.vscode/launch.json
+!.vscode/tasks.json
+*.sublime-project
+*.sublime-workspace
+
+# Temporary & Log Files
+*.log
+*.tmp
+*.bak
